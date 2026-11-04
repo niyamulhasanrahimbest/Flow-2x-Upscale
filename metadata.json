@@ -1,0 +1,6 @@
+{
+  "name": "Google Flow Auto 2X Upscaler & Deleter",
+  "description": "Automated Chrome Extension and tool suite for batch 2K upscaling and auto-deleting processed images in flow.google.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
